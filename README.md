@@ -3,8 +3,13 @@
 
 ## Установка
 
-    python - m venv venv
-    source venv/Scripts/Activate
+    python -m venv venv
+
+    # Windows (Git Bash)
+    source venv/Scripts/activate
+
+    # Linux / macOs
+    source venv/bin/activate
     pip install -r requirements.txt
 
 ## Запуск
