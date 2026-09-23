@@ -3,9 +3,12 @@ import requests
 
 def train_hot_key():
 
+    # print("train_hot_keys")
     print("train_hot_keys")
     print("train_hot_keys")
-    print("train_hot_keys")
+
+
+"""  """
 
 
 def main():
