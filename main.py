@@ -4,16 +4,17 @@ import requests
 def train_hot_key():
 
     # print("train_hot_keys")
-    print("train_hot_keys")
+
     print("train_hot_keys")
 
-
-"""  """
+    # print("train_hot_keys")
+    # print("train_hot_keys")
+    # print("train_hot_keys")
 
 
 def main():
-    response = requests.get("https://api.github.com")
-    print(f"Status: {response.status_code}")
+    response_1 = requests.get("https://api.github.com")
+    print(f"Status: {response_1.status_code}")
     print("Hello from virtual enviroment!")
 
     train_hot_key()
